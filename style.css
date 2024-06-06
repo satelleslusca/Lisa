@@ -33,6 +33,7 @@ body{
 .barra-de-pesquisa img {
     max-width: 20px;
     height: auto;
+    margin: 3px;
 }
 
 img{
