@@ -11,6 +11,7 @@ body{
     }
     
 .barra-de-pesquisa{
+    justify-content: center;
     border-radius: 10px;
     color: #948F8F;
     display: flex;
