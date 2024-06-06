@@ -22,7 +22,7 @@ body{
 .pesquisa{
     border:   solid #948F8F 1px;
     display: flex;
-    border-radius: 10px;
+    border-radius: 45px;
     align-items: center;
     padding: 5px;
 }
