@@ -20,7 +20,9 @@ body{
 }
 
 .pesquisa{
-    border:   solid #948F8F 1px;;
+    border:   solid #948F8F 1px;
+    display: flex;
+    border-radius: 10px;
 }
 .barra-de-pesquisa h5 {
     margin: 0;
