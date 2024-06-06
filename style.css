@@ -12,6 +12,10 @@ body{
 
 }
 
+h5{
+    border: solid #948F8F 1px;
+    border-radius: 10px;
+}
 img{
     width: 22px;
     margin: 8px;
