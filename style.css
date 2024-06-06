@@ -5,10 +5,14 @@ header{
 
 body{
     margin: 0%;
+    }
+    
+    img{
+        width: 22px;
+        margin: 8px;
+        }
+    
+barra-de-pesquisa{
     text-align: center;
-}
 
-img{
-    width: 22px;
-    margin: 8px;
 }
