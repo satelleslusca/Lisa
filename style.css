@@ -18,3 +18,10 @@ img{
     width: 22px;
     margin: 8px;
     }
+
+.menu{
+    align-self: flex-start;
+}    
+.logo{
+    align-self: flex-end;
+}
