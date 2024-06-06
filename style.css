@@ -24,6 +24,7 @@ body{
     display: flex;
     border-radius: 10px;
     align-items: center;
+    padding: 5px;
 }
 .barra-de-pesquisa h5 {
     margin: 0;
