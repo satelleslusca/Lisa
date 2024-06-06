@@ -19,6 +19,9 @@ body{
     padding: 10px 20px;
 }
 
+.pesquisa{
+    border:   solid #948F8F 1px;;
+}
 .barra-de-pesquisa h5 {
     margin: 0;
     padding-right: 10px;
