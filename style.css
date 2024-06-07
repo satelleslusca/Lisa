@@ -52,4 +52,6 @@ img{
 
 .top-10{
     margin-left: 8px;
+    margin-right: 8px;
+    border-bottom: solid;
 }
