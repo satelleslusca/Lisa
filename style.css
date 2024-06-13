@@ -55,3 +55,9 @@ img{
     margin-right: 8px;
     border-bottom: solid #948F8F 3px;
 }
+
+.pag-inicial-sementes{
+    width: 90%;
+    justify-content: center;
+    display: flex;
+}
