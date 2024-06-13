@@ -65,7 +65,7 @@ img.header{
 .pag-inicial-sementes{
     width: 100%;
     justify-content: center;
-    display: flex;
+    display: block;
 }
 
 .img-pag-inicial{
