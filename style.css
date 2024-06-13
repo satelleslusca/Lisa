@@ -71,6 +71,11 @@ img.header{
 .img-pag-inicial{
     width: 90%;
 }
+
+.footer{
+    background-color: #1e9201;
+}
+
 @media screen and(min-width: 1728px){
-    
+
 }
