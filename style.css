@@ -63,11 +63,11 @@ img.header{
 }
 
 .pag-inicial-sementes{
-    width: 10%;
+    width: 100%;
     justify-content: center;
     display: flex;
 }
 
 img.pag-inicial-sementes{
-    width: 90%;
+    width: 30%;
 }
