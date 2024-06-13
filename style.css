@@ -74,6 +74,7 @@ img.header{
 
 .footer{
     background-color: #1e9201;
+    width: 100%;
 }
 
 @media screen and(min-width: 1728px){
