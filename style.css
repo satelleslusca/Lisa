@@ -72,8 +72,11 @@ img.header{
     width: 90%;
 }
 
-img.footer{
+footer{
     background-color: #1e9201;
+}
+
+.rodape{
     width: 100%;
 }
 
